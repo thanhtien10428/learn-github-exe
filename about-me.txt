@@ -1,6 +1,0 @@
-Name: Nguyễn Văn Thành Tiến
-
-Mục tiêu:
-- Học Git
-- Học Github
-- Trở thành lập trình viên
